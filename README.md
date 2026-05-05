@@ -94,7 +94,6 @@ smart-ev-routing-system/
 
 │── references/
 │     └── references.md
-
 ```
 
 ## Network Visualization
