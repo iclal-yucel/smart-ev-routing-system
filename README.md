@@ -63,6 +63,21 @@ This approach helps improve routing efficiency and supports smarter urban transp
 - Network visualization
 
 ---
+## Network Visualization
+![Network Visualization](results/highlighted_route.png)
+
+## Managerial Interpretation
+
+The optimization results demonstrate how smart routing systems can improve EV c$
+
+By minimizing travel distance and traffic-related costs, the system helps:
+- reduce energy consumption,
+- decrease travel time, 
+- improve charging station accessibility,
+- support smart city transportation planning.
+
+The project also demonstrates how network optimization models can support manag$
+---
 
 ## Dataset Structure
 
@@ -95,22 +110,6 @@ smart-ev-routing-system/
 │── references/
 │     └── references.md
 ```
-
-## Network Visualization
-
-![Network Visualization](results/highlighted_route.png)
-
-## Managerial Interpretation
-
-The optimization results demonstrate how smart routing systems can improve EV charging accessibility in urban environments.
-
-By minimizing travel distance and traffic-related costs, the system helps:
-- reduce energy consumption,
-- decrease travel time,
-- improve charging station accessibility,
-- support smart city transportation planning.
-
-The project also demonstrates how network optimization models can support managerial decision-making in intelligent transportation systems.
 
 ## References
 
