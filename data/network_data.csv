@@ -1,0 +1,13 @@
+source,target,distance,traffic
+Kadikoy,Moda Coast,2,2
+Kadikoy,Emaar Mall,8,3
+Moda Coast,EV Station Metro,3,2
+Moda Coast,Hilltown Mall,11,4
+EV Station Metro,EV Station Home,5,2
+Emaar Mall,EV Station Home,3,3
+Emaar Mall,Hilltown Mall,7,4
+Hilltown Mall,EV Station Akasya,4,2
+EV Station Home,EV Station Akasya,6,2
+EV Station Akasya,Levent Business Center,14,5
+EV Station Home,Levent Business Center,16,4
+

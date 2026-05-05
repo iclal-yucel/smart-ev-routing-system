@@ -1,0 +1,4 @@
+SMART EV CHARGING ROUTING SYSTEM
+================================
+Optimal Route: Kadikoy -> Moda Coast -> EV Station Metro -> EV Station Home
+Total Cost: 16
