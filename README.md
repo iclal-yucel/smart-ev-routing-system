@@ -76,7 +76,8 @@ By minimizing travel distance and traffic-related costs, the system helps:
 - improve charging station accessibility,
 - support smart city transportation planning.
 
-The project also demonstrates how network optimization models can support manag$
+The project also demonstrates how network optimization models can support managerial decision-making in intelligent transportation systems.
+
 ---
 
 ## Dataset Structure
