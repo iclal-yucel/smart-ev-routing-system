@@ -22,13 +22,6 @@ for index, row in df.iterrows():
         traffic=row['traffic']
     )
 
-# Unavailable charging stations
-unavailable_stations = ['C']
-
-# Remove unavailable stations
-for station in unavailable_stations:
-    if station in G:
-        G.remove_node(station)
 
 # User input
 start_node = input("Enter your starting location: ")
