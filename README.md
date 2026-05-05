@@ -106,6 +106,9 @@ smart-ev-routing-system/
 │── src/
 │     └── solution.py
 
+│── notebooks/
+│     └── analysis.ipynb
+
 │── results/
 │     ├── highlighted_route.png
 │     └── solution_output.txt
