@@ -66,6 +66,8 @@ This approach helps improve routing efficiency and supports smarter urban transp
 ## Network Visualization
 ![Network Visualization](results/highlighted_route.png)
 
+The highlighted red path represents the optimized route selected by the system based on traffic density and transportation cost.
+
 ## Managerial Interpretation
 
 The optimization results demonstrate how smart routing systems can improve EV c$
