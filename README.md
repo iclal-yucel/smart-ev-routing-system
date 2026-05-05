@@ -28,16 +28,19 @@ This project provides a smart routing model that helps optimize EV charging acce
 
 ---
 
-## Selected Algorithm
+## Selected Algorithm	
 
-### Dijkstra Shortest Path Algorithm
+### Shortest Path Algorithm
 
-The project uses Dijkstra’s algorithm to calculate the most efficient route between the driver’s location and an available charging station.
+The project uses a shortest path optimization approach to determine the most efficient route between the driver’s location and available EV charging stations.
 
 The algorithm minimizes:
+
 - travel distance,
 - traffic-related cost,
-- overall routing cost.
+- overall transportation cost.
+
+This approach helps improve routing efficiency and supports smarter urban transportation planning.
 
 ---
 
