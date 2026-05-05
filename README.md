@@ -70,7 +70,7 @@ The highlighted red path represents the optimized route selected by the system b
 
 ## Managerial Interpretation
 
-The optimization results demonstrate how smart routing systems can improve EV c$
+The optimization results demonstrate how smart routing systems can improve EV charging efficiency, reduce travel costs, and support sustainable transportation.
 
 By minimizing travel distance and traffic-related costs, the system helps:
 - reduce energy consumption,
