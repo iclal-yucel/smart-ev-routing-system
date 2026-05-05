@@ -1,3 +1,4 @@
+
 # References
 
 - NetworkX Documentation: https://networkx.org/
@@ -5,3 +6,4 @@
 - Matplotlib Documentation: https://matplotlib.org/
 - SciPy Documentation: https://scipy.org/
 - Lecture Slides (MIS Network Optimization)
+- Python Documentation: https://www.python.org/doc/
