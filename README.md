@@ -111,3 +111,11 @@ By minimizing travel distance and traffic-related costs, the system helps:
 - support smart city transportation planning.
 
 The project also demonstrates how network optimization models can support managerial decision-making in intelligent transportation systems.
+
+## References
+
+- NetworkX Documentation: https://networkx.org/
+- Pandas Documentation: https://pandas.pydata.org/
+- Matplotlib Documentation: https://matplotlib.org/
+- SciPy Documentation: https://scipy.org/
+- Lecture Slides (MIS Network Optimization)
